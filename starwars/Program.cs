@@ -6,7 +6,10 @@ String entree = "";
 
 Icommand[] exercices = new Icommand[]
 {
-    new VaisseauDeBase()
+    new VaisseauDeBase(),
+    new VaisseauPropriete(),
+    new VaisseauChampPartage(),
+    new VaisseauHeritage(),
 };
 
 do
