@@ -6,6 +6,7 @@ String entree = "";
 
 Icommand[] exercices = new Icommand[]
 {
+    new VaisseauDeBase()
 };
 
 do
